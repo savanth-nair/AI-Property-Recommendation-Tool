@@ -58,8 +58,6 @@ Feel free to fork the repository, create a feature branch, and submit a pull req
 🔗 [LinkedIn](https://www.linkedin.com/in/savanth-nair-5b94b2169/)  
 📊 [Kaggle](https://www.kaggle.com/savanthnair)
 
-## 📜 License
-This project is licensed under the **MIT License**. See `LICENSE` for details.
 
 ---
 ### 🚀 Happy Coding!
